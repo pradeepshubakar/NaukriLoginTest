@@ -31,7 +31,7 @@ public void testCreateCustomer() throws EncryptedDocumentException, IOException,
 	String ATitle = t.getActTitle().getText();
 	Assert.assertEquals(ETitle, ATitle);
 
-Select s;
+
 
 }
 
